@@ -3,5 +3,5 @@ This dataset merged two hotels(city, resort) datasets. It has 31 variables descr
 
 What was done with the dataset:
 1. Prformed SQL queries to analyze the dataset
-2. Published findings at Tableau
-3. Created a predictive model for cancellation
+2. Created a predictive model for cancellation
+3. Published findings at Tableau
